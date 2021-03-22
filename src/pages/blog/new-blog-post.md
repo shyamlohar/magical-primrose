@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Test Post
 date: '2021-03-22'
 categories: []
 tags: []
