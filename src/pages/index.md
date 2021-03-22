@@ -67,14 +67,10 @@ sections:
             url: /features
             style: secondary
       - title: Budha Info
-        content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        content: >+
+          I can add details and new sections here not quite easily but i surely
+          can do that
 
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
         align: left
         image_alt: lorem-ipsum
         image_position: left
