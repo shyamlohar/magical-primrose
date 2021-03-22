@@ -16,9 +16,4 @@ template: post
 image: images/pink-eucalyptus.jpg
 author: src/data/team/dianne-ameter.yaml
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+*   Writing Experience is not as clean but this just works man just works
