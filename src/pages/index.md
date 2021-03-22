@@ -80,6 +80,7 @@ sections:
         image_position: left
         actions: []
         type: feature
+        image: images/budha.jpg
   - type: blog_feed_section
     title: What's New
     show_recent: true
