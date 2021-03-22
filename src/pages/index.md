@@ -74,7 +74,13 @@ sections:
         align: left
         image_alt: lorem-ipsum
         image_position: left
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            new_window: false
+            no_follow: false
+            type: action
         type: feature
         image: images/budha.jpg
   - type: blog_feed_section
