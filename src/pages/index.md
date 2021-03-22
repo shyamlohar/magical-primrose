@@ -75,7 +75,7 @@ sections:
         image_alt: lorem-ipsum
         image_position: left
         actions:
-          - label: lorem-ipsum
+          - label: View Experience
             url: '#'
             style: primary
             new_window: false
