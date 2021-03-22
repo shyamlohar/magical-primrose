@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 template: post
 image: images/pink-eucalyptus.jpg
+author: src/data/team/dianne-ameter.yaml
 ---
 ## Lorem ipsum
 
