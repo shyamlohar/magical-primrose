@@ -1,7 +1,8 @@
 ---
 title: Test Post
 date: '2021-03-23'
-categories: []
+categories:
+  - src/data/categories/general.yaml
 tags: []
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
