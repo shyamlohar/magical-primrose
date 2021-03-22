@@ -66,7 +66,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: lorem-ipsum
+      - title: Budha Info
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
