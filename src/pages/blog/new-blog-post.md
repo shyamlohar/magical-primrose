@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
+image: images/pink-eucalyptus.jpg
 ---
 ## Lorem ipsum
 
